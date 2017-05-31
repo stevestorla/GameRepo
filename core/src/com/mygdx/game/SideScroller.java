@@ -13,7 +13,6 @@ public class SideScroller extends Game {
 
 	public SpriteBatch batch;
     private Music music;
-
 	@Override
 	public void create () {
         music = Gdx.audio.newMusic(Gdx.files.internal("01 game-game_0.ogg"));
