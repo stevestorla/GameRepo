@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="2017.05.16" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="32" tileheight="32" nextobjectid="89">
+ <tileset firstgid="1" source="Collection.tsx"/>
+ <layer name="Tile Layer 1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt0jkKgDAURdEgvxFx2v9mjYUQxCFgI3qK2xyeBGL6lNKQG3NTbs71jDHGGGOMMcYYY4wxxhhjjDHG2M8sikrbdlF8GzvbdrE7I046O/eqN90VO/6X5a5Lde+g5t/X7o7eS8123TU3venun1gr6fMt3DCJgw==
+  </data>
+ </layer>
+ <objectgroup name="Lava">
+  <object id="29" x="0" y="1440" width="1600" height="160"/>
+ </objectgroup>
+ <objectgroup name="ground">
+  <object id="61" x="32" y="1376" width="192" height="32"/>
+  <object id="62" x="256" y="1376" width="288" height="32"/>
+  <object id="65" x="576" y="1376" width="384" height="32"/>
+  <object id="66" x="1024" y="1376" width="256" height="32"/>
+  <object id="67" x="1344" y="1376" width="256" height="32"/>
+  <object id="70" x="0" y="1280" width="96" height="32"/>
+  <object id="71" x="160" y="1280" width="32" height="32"/>
+  <object id="72" x="256" y="1280" width="32" height="32"/>
+  <object id="73" x="352" y="1280" width="32" height="32"/>
+  <object id="77" x="416" y="1280" width="32" height="32"/>
+  <object id="80" x="480" y="1280" width="32" height="32"/>
+  <object id="81" x="544" y="1280" width="32" height="32"/>
+  <object id="82" x="672" y="1280" width="192" height="32"/>
+  <object id="83" x="960" y="1280" width="224" height="32"/>
+  <object id="85" x="1280" y="1344" width="62" height="30"/>
+  <object id="86" x="1282" y="1378" width="32" height="32"/>
+  <object id="87" x="1184" y="1280" width="96" height="32"/>
+ </objectgroup>
+ <objectgroup name="door">
+  <object id="68" x="1536" y="1344" width="32" height="32"/>
+ </objectgroup>
+</map>
